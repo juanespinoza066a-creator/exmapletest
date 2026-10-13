@@ -1,0 +1,1 @@
+Demo photography uses images.unsplash.com URLs listed in styles.css. Images are illustrative architectural photos and might not show roofing work or reflect the fictional company. Consult Unsplash licensing terms and obtain appropriate rights for commercial use.
